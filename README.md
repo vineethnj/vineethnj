@@ -2,25 +2,24 @@
 
 ## About Me
 <!-- Add a brief introduction about yourself -->
-I'm a software developer passionate about building great applications.
+AI/ML Developer and AI Engineer with expertise in developing intelligent systems using large
+ language models (LLMs) and AI agents. Skilled in leveraging frameworks like Langchain, Cre
+wAI, and LlamaIndex to create innovative AI solutions.
+
 
 ## 🔭 Current Work
 <!-- Add what you're currently working on -->
-- Working on interesting projects
-- Learning new technologies
+-  Develop and implement LLM-powered chatbots and AI agents for diverse application
 
-## 🛠️ Technologies & Tools
-<!-- Add or modify these badges based on your skills -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethnj&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 <!-- Add your social media links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](Your_LinkedIn_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vineeth-n-4237a4290/)
 
 ## 💡 Fun fact
 <!-- Add a fun fact about yourself -->
